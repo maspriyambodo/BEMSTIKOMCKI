@@ -1,1 +1,1 @@
-# bemstikomcki
+BEM STIKOM CKI merupakan sebuah lembaga eksekutif tertinggi Sekolah Tinggi. BEM STIKOM CKI juga merupakan wadah aspirasi bagi mahasiswa serta berdedikasi bagi STIKOM dan juga untuk masyarakat, demi terwujudnya impian menjadi mahasiswa yang aktif, kreatif dan berprestasi
