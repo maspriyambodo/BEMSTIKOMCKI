@@ -15,3 +15,7 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+assets/captcha/1524494865.164.jpg
+assets/captcha/1524494865.164.jpg
+assets/captcha/1524494977.9759.jpg
+assets/captcha/1531565807.2953.jpg
